@@ -1,0 +1,8 @@
+C:\Users\dumag\Desktop\Code Files\Palindrome_Dumagpi\Palindrome_Dumagpi\bin\Debug\Palindrome_Dumagpi.exe.config
+C:\Users\dumag\Desktop\Code Files\Palindrome_Dumagpi\Palindrome_Dumagpi\bin\Debug\Palindrome_Dumagpi.exe
+C:\Users\dumag\Desktop\Code Files\Palindrome_Dumagpi\Palindrome_Dumagpi\bin\Debug\Palindrome_Dumagpi.pdb
+C:\Users\dumag\Desktop\Code Files\Palindrome_Dumagpi\Palindrome_Dumagpi\obj\Debug\Palindrome_Dumagpi.csproj.AssemblyReference.cache
+C:\Users\dumag\Desktop\Code Files\Palindrome_Dumagpi\Palindrome_Dumagpi\obj\Debug\Palindrome_Dumagpi.csproj.SuggestedBindingRedirects.cache
+C:\Users\dumag\Desktop\Code Files\Palindrome_Dumagpi\Palindrome_Dumagpi\obj\Debug\Palindrome_Dumagpi.csproj.CoreCompileInputs.cache
+C:\Users\dumag\Desktop\Code Files\Palindrome_Dumagpi\Palindrome_Dumagpi\obj\Debug\Palindrome_Dumagpi.exe
+C:\Users\dumag\Desktop\Code Files\Palindrome_Dumagpi\Palindrome_Dumagpi\obj\Debug\Palindrome_Dumagpi.pdb
